@@ -18,8 +18,8 @@ Ensure you have the following installed on your local machine:
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/sachindolase
-    cd Go-Bananas-Assignment
+    git clone https://github.com/sachindolase/fetchdata-api-application
+    cd fetchdata-api-application
     ```
 
 2. **Install dependencies**
